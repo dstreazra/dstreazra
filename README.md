@@ -1,4 +1,4 @@
-# Hi, I'm [Junervin](https://github.com/junervin12) 👋
+# Hi, I'm [Desvita](https://github.com/dstreazra) 👋
 
 ### About Me
 I am an enthusiastic Data scientist, AI Engineer, and Lecturer. I specialize in **Machine Learning**, **Data Analysis**, and **Artificial Intelligence**. 
@@ -18,11 +18,11 @@ I am currently working on several exciting projects in the field of AI and data 
 
 
 ### Let's Connect!
-<a href="https://www.linkedin.com/in/junervin">
+<a href="www.linkedin.com/in/desvita-nursayla-putri-cantika-b15869368">
   <img height="35" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
 </a>&nbsp
 
-<a href="https://github.com/junervin12">
+<a href="https://github.com/dstreazra">
   <img height="35" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png">
 </a>
 
