@@ -16,7 +16,7 @@ I am currently working on several exciting projects in the field of AI and data 
 - Face Detection : Real-time face detection with MTCNN, using OpenCV and TensorFlow.
 
 ### Let's Connect!
-<a href="www.linkedin.com/in/desvita-nursayla-putri-cantika-b15869368">
+<a href="https://www.linkedin.com/in/desvita-nursayla-putri-cantika-b15869368/">
   <img height="35" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
 </a>&nbsp
 
