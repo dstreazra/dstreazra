@@ -1,7 +1,7 @@
 # Hi, I'm [Desvita](https://github.com/dstreazra) 👋
 
 ### About Me
-I am an enthusiastic Data scientist, AI Engineer, and Lecturer. I specialize in **Machine Learning**, **Data Analysis**, and **Artificial Intelligence**. 
+I am an enthusiastic Data scientist, AI Engineer, and Lecturer. I specialize in **Machine Learning**, and **Artificial Intelligence**. 
 
 ### Tech Stack
 <code><img height="40" alt="laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
@@ -12,10 +12,8 @@ I am an enthusiastic Data scientist, AI Engineer, and Lecturer. I specialize in 
 
 ### Current Projects
 I am currently working on several exciting projects in the field of AI and data science, including:
-- **Object Detection using OpenCV**: Implemented real-time object detection using Python and OpenCV for image and video processing tasks.
-- **Image Segmentation**: Developing advanced AI models for image segmentation and detection.
-- **Mobile and Web Applications**: Building scalable mobile and web applications that integrate machine learning with **Flask** and **Android Studio**.
-
+- Defect Detection on Fruits : This project focuses on fruit defect detection using a YOLOv11 model with the Ultralytics framework. The model is trained on a dataset from Roboflow to identify fresh or rotten apples, bananas, and oranges
+- Face Detection : Real-time face detection with MTCNN, using OpenCV and TensorFlow.
 
 ### Let's Connect!
 <a href="www.linkedin.com/in/desvita-nursayla-putri-cantika-b15869368">
